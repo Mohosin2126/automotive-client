@@ -1,0 +1,2 @@
+- Features 
+- At home page there is 6 section navbar section banner section brand section people looking section and footer section 
