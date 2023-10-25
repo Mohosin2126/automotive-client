@@ -1,2 +1,3 @@
 - Features 
 - At home page there is 6 section navbar section banner section brand section people looking section and footer section 
+- if  you click in brand section it will take you to specific relavent brand route where you will get relavent brand product 
