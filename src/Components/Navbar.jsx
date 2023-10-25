@@ -30,7 +30,7 @@ const Navbar = () => {
             
             </ul>
           </div>
-          <img className="h-15 w-20 border rounded-md" src="https://i.ibb.co/q7GCRj4/automotive-logo-design-vector.jpg" alt="" />
+          <img className=" w-20 border rounded-md" src="https://i.ibb.co/dfS2SmX/automotive-industry-neon-sign-24908-57005.jpg" alt="" />
         </div>
         <div className="navbar-center hidden lg:flex">
           <ul className="menu menu-horizontal  gap-10 px-1">
