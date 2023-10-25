@@ -1,7 +1,6 @@
 import { useLoaderData } from "react-router-dom";
 import Banner from "../Components/Banner";
 import BrandNames from "../Components/BrandNames";
-import CustomerFeedback from "../Components/CustomerFeedback";
 import OurServices from "../Components/OurServices";
 import Looking from "../Components/Looking";
 
