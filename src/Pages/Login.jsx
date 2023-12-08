@@ -58,9 +58,9 @@ const handleSignIn = e => {
                      <button className="btn bg-slate-400">Login</button>
                  </div>
                  <div className="form-control mt-6">
-                     <button  
+                     {/* <button  
                      onClick={ handleGoogle} 
-                      className="btn btn-primary">Google Login</button>
+                      className="btn btn-primary">Google Login</button> */}
                  </div>
              </form>
              <p className="text-center mt-4">Do not have an account <Link className="text-blue-600 font-bold" to="/register">Register</Link></p>
