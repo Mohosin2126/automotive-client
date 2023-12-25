@@ -10,4 +10,4 @@
 - here few routes are private if you wanna use full website than you have to log in 
 <br>
 
-[LiveLink](https://spiffy-cobbler-4579fb.netlify.app/)
+[LiveLink](https://automotivecarshop.netlify.app/)
